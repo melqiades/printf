@@ -12,4 +12,4 @@
  ## Usage
 The function has to be compiled together with the project. 
 
-It works as a standard printf using the standard specifiers __cspdiuxX%__
+It works as the standard printf using the standard specifiers __cspdiuxX%__
