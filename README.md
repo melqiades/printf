@@ -1,3 +1,5 @@
+<img src="https://github.com/melqiades/printf/assets/142016602/9b66697e-f781-4976-bd85-0dd6eb0c27ea" width=10%>
+
 # printf
 
 ## Philosophy
