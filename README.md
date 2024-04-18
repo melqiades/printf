@@ -4,7 +4,7 @@
 
 ## Philosophy
 
-* Reconstruction of the famous _printf_ function that is part of _stdio.h_ library.
+* Reconstruction of the famous _printf_ function that is a part of _stdio.h_ library.
 * Get proficiency with variadic functions
 * Build complex robust program that serves for the following projects
 * Following the strict Norm
