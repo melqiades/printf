@@ -8,4 +8,6 @@
 * Following the strict Norm
 
  ## Usage
-The function has to be compiled together with the project it works as a standard printf using the standard specifiers __cspdiuxX%__
+The function has to be compiled together with the project. 
+
+It works as a standard printf using the standard specifiers __cspdiuxX%__
